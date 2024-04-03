@@ -9,7 +9,7 @@ This is a simple REST API for managing mathematical sessions and equations.
 
 ## Setup
 
-1. Clone the repository: git clone <repository_url>
+1. Clone the repository: git clone https://github.com/uk1124/Math-Session-API.git
 
 2. Install dependencies: npm install
 
